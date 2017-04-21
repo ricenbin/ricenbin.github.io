@@ -27,6 +27,7 @@ social:
 
 assets:
   cache_type: memory
+  baseurl: http://ricenbin.github.io
   features:
     automatic_img_size: false
   sources:
