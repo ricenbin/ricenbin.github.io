@@ -4,6 +4,7 @@ name: Chalk
 paginate: 25
 url: http://ricenbin.github.io # add your site url (format: http://example.com/)
 blog_theme: light # Or use dark
+baseUrl: http://ricenbin.github.io
 
 # Optional settings
 
